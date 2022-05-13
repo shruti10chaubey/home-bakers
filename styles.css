@@ -1,0 +1,118 @@
+
+  /* body */
+body{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  /* padding: 3%; */
+}
+#title{
+  background-color: #FFB2A7;
+  text-align: center;
+  padding: 0% 11%;
+}
+
+/* navbar */
+.navbar-brand{
+font-family: 'Lobster', cursive;
+font-size: 2.5rem;
+font-weight: bold;
+color: #790C5A;
+
+}
+.navbar-brand:hover{
+  color: #fff;
+}
+
+.nav-item{
+    padding: 0 18px;
+
+
+}
+
+.nav-link{ font-family: 'montserrat-light';
+    font-size: 1.2rem;
+}
+.h1{
+    font-family: 'ubuntu';  font-size: 3.5rem;
+ line-height: 1.5;color: #790C5A;
+}
+.A{
+  padding-top: 4.5rem;
+}
+.B{
+  padding-top: 100px;
+}
+/* features */
+
+#feature{
+  text-align: center;
+  padding: 7% 12%;
+}
+.container-fluid{
+  padding: 3% 15% 5%;
+}
+
+/* testimonial */
+
+#testimonial{
+  background-color: #FFB2A7;
+  text-align: center;
+  color: #fff;
+
+}
+
+.test{
+  padding-top: 7%;
+}
+
+#testimonial-carousel{
+  padding: 15%;
+}
+
+/* menu */
+
+#menu{
+  padding: 7%;
+  padding-bottom: 25px;
+}
+.head{
+  text-align: center;
+  font-family:'Lobster', cursive;
+  color: #790C5A;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+.menu{
+  padding: 50px 100px 50px 200px;
+}
+h4{
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  background-color: #F5EEEE;
+  height: 35px;
+  width: 700px;
+  margin-left: 230px;
+  color: white;
+}
+
+/* call to action */
+
+#cta{
+  padding: 7%;
+  background-color: #FFB2A7;
+  text-align: center;
+  color: #fff;
+}
+.display-4{
+  font-weight: bold;
+    padding-bottom: 10px;
+}
+/* footer */
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
+.bb{
+    margin: 20px 10px;
+}
